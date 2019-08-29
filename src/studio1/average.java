@@ -9,6 +9,5 @@ public class average {
         int n2 = ap.nextInt("Value for n2?");
         double average = ((double)n1 + (double)n2) / 2;
         System.out.println("the average is " + average + ".");
-
     }
 }
